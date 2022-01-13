@@ -1,3 +1,1 @@
-print("this was created in studio and lives in Github")
-
-print("version 2 test")
+print("this is a test of the init commit of test.R")
