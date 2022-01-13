@@ -1,1 +1,1 @@
-print("this is a test of the init commit of test.R")
+print("this is a test of the initial commit of test.R")
